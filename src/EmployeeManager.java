@@ -1,9 +1,16 @@
+
 public class EmployeeManager {
 
     public static void main(String[] args) {
-        Main employee = new Main();   // Create a employee object
-        public void fullThrottle() {
-            System.out.println("The car is going as fast as it can!");
-        }
+        Employee objEmployee = new Employee(2000, "Manager");
+
+        // Inside class, call methods using . and ():
+        objEmployee.setName("Jonas");
+        objEmployee.setSurname("Jonaits");
+        objEmployee.position();
+        objEmployee.contractStartDate("2022-01-01");
+        objEmployee.salary();
+        objEmployee.contractType();
+
     }
 }
