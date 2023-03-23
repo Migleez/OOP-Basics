@@ -2,6 +2,7 @@ public class Employee {
     int newSalary;
     String newPosition;
 
+    // constructor method
     public Employee(int salary, String position) {
         newSalary = salary;
         newPosition = position;

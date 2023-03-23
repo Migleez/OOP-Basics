@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ee6c124-5699-4cb7-ac37-8f4c7c4eae1d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ShapeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmployeeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoansApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoansApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +32,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2K5guH38k2HgTIS2We99jse9utk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -40,7 +44,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/p998iyg/IdeaProjects/com.gyk.java.oop.basics&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/p998iyg/IdeaProjects/GYK&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -48,7 +52,7 @@
       <recent name="C:\Users\p998iyg\IdeaProjects\com.gyk.java.oop.basics\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ShapeApplication">
     <configuration name="EmployeeManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EmployeeManager" />
       <module name="com.gyk.java.oop.basics" />
@@ -56,8 +60,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LoansApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoansApplication" />
+      <module name="com.gyk.java.oop.basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShapeApplication" />
+      <module name="com.gyk.java.oop.basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShapeApplication" />
+        <item itemvalue="Application.LoansApplication" />
         <item itemvalue="Application.EmployeeManager" />
       </list>
     </recent_temporary>
